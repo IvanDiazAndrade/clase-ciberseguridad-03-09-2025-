@@ -27,3 +27,9 @@ Es fundamental para garantizar que las actividades de hacking se realicen de man
   FASE 1 - RECONOCIMIENTO
 
   el reconocimiento es la fase inicial en la que se recopila la informacion sobre el objetivo, utilizando tecnicas como OSINT, google dorking y analisis de redes sociales para identificar posibles vulnerabilidades
+
+USAR GOOGLE DORKS, OSINT FRAMEWORK
+
+FASE 2 - ESCANEO
+
+la fase de escaneo implica la identificacion de pertos abiertos, servicios activos y 
