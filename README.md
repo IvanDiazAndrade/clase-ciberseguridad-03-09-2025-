@@ -10,9 +10,9 @@ DOCUMENTACION Y REPORTE DE HALLAZGOS
 
 en el haking etico, es crucial documentar todos los hallazgos y reportes, para las organizaciones puedan tomar acciones correctivas. esta transparencia es fundamental para construir confianza y mejorar la seguridad a largo plazo
 
-  PERMISO EXPLICITO
+PERMISO EXPLICITO
 
-  Es fundamental para garantizar que las actividades de hacking se realicen de manera legal y etica, asegurando que el hacker tenga la autorizacion del propietario o sistema
+Es fundamental para garantizar que las actividades de hacking se realicen de manera legal y etica, asegurando que el hacker tenga la autorizacion del propietario o sistema
 
   ALCANCE DEFINIDO 
 
